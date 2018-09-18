@@ -45,3 +45,9 @@
 	* 다운로드 Chromedriver **[바로가기](https://sites.google.com/a/chromium.org/chromedriver/downloads)**
 	* 다운로드 FireFoxdriver **[바로가기](https://github.com/mozilla/geckodriver/releases)**
 	* 다운로드 Phantomjs **[바로가기](http://phantomjs.org/download.html )**
+
+### 웹 브라우저 없는 스크랩핑 및 파싱 실습(2)
+* 1.Selenium을 이용한 네이버 카페 자동으로 글쓰기
+* 2.네이버 로그인 처리 후 회원 리스트 정보 가져오기
+* 3.Class Module 실습 작성
+* 4.자주 사용하는 Selenium 레퍼런스(Refference) 문서 훑어보기
