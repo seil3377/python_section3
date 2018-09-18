@@ -1,5 +1,5 @@
-# python_section2
-## 파이썬 기초 스크랩핑
+# python_section3
+## 파이썬 고급 스크랩핑
 
 ### 파이썬 requests 모듈 기초 사용법(1)
 * 1. requests 모듈 사용법(1) 및 장점
@@ -44,4 +44,4 @@
 	* phantomjs 문서 **[바로가기](http://phantomjs.org/documentation/)**
 	* 다운로드 Chromedriver **[바로가기](https://sites.google.com/a/chromium.org/chromedriver/downloads)**
 	* 다운로드 FireFoxdriver **[바로가기](https://github.com/mozilla/geckodriver/releases)**
-	* 다운로드 **[바로가기](http://phantomjs.org/download.html )**
+	* 다운로드 Phantomjs **[바로가기](http://phantomjs.org/download.html )**
